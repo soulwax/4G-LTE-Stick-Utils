@@ -312,7 +312,7 @@ def example_usage():
     """Demonstrate advanced client usage."""
 
     # Configuration
-    ROUTER_URL = "http://192.168.1.1"
+    ROUTER_URL = "http://192.168.123.254"
     PASSWORD = "admin"
 
     # Initialize advanced client
